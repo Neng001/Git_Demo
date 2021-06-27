@@ -6,5 +6,9 @@ package com.nh.junit;
  */
 public class TestGit {
 
+    public void info(){
+
+    }
+
 
 }
