@@ -13,6 +13,7 @@ public class TestGit {
     }
 
     public void info(){
+        System.out.println("master branch");
 
     }
 
