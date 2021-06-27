@@ -12,5 +12,9 @@ public class TestGit {
 
     }
 
+    public void info(){
+
+    }
+
 
 }
