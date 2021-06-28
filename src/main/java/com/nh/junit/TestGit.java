@@ -18,6 +18,8 @@ public class TestGit {
         System.out.println("push test");
         System.out.println("github online edit");
         System.out.println("github online edit22");
+        System.out.println("push test22");
+
     }
 
 
