@@ -14,7 +14,7 @@ public class TestGit {
 
     public void info(){
         System.out.println("master branch");
-
+        System.out.println("hot-fix branch");
     }
 
 
